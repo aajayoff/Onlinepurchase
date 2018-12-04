@@ -1,0 +1,11 @@
+
+Nov 22, 2018 14:14:23.19 NEW SESSION
+Nov 22, 2018 14:14:23.19 [6628:5228:1122/141423.198:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 14:14:50.49 [6628:5228:1122/141450.491:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 14:15:35.04 [6628:5228:1122/141535.047:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 14:17:32.18 [6628:5228:1122/141732.181:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 14:20:44.61 [6628:5228:1122/142044.610:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Nov 22, 2018 14:26:59.88 [6628:5228:1122/142659.883:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Dec 02, 2018 16:27:20.00 NEW SESSION
+Dec 02, 2018 16:27:20.00 [808:7912:1202/162719.998:ERROR:account_info_fetcher.cc(59)] OnGetTokenFailure: Request canceled.
